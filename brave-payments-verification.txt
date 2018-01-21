@@ -1,0 +1,4 @@
+This is a Brave Payments publisher verification file.
+
+Domain: github.com
+Token: 3a6cf0a87614ef59b1cd407dd5b44649d91fd54f3ddfa94460c795dd403682c2
